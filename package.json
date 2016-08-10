@@ -1,0 +1,19 @@
+{
+  "name": "all-things-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugenekgn/all-things-javascript.git"
+  },
+  "author": "Eugene Kagan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eugenekgn/all-things-javascript/issues"
+  },
+  "homepage": "https://github.com/eugenekgn/all-things-javascript#readme"
+}
