@@ -1,7 +1,6 @@
 {
   "name": "all-things-javascript",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,9 @@
   "bugs": {
     "url": "https://github.com/eugenekgn/all-things-javascript/issues"
   },
-  "homepage": "https://github.com/eugenekgn/all-things-javascript#readme"
+  "homepage": "https://github.com/eugenekgn/all-things-javascript#readme",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.14.2"
+  }
 }
